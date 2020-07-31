@@ -11,7 +11,6 @@ class FeatureAActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_feature_a)
 
-
         go_feature_b.setOnClickListener {
             startActivity(
                 Intent().setClassName(
