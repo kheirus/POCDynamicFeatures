@@ -1,0 +1,4 @@
+include ':FeatureB'
+include ':FeatureA'
+include ':app'
+rootProject.name = "POC Dynamic Features"

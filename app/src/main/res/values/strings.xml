@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POC Dynamic Features</string>
+    <string name="title_feature_a">Feature A</string>
+    <string name="title_feature_b">Feature B</string>
+</resources>
