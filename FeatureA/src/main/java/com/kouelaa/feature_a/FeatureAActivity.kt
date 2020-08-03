@@ -3,7 +3,6 @@ package com.kouelaa.feature_a
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.google.android.play.core.splitinstall.SplitInstallRequest
 import kotlinx.android.synthetic.main.activity_feature_a.*
 
 class FeatureAActivity : AppCompatActivity() {

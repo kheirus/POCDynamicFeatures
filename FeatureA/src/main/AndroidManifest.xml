@@ -9,6 +9,8 @@
         <dist:delivery>
             <dist:install-time />
         </dist:delivery>
+
+        <dist:fusing dist:include="false" />
     </dist:module>
 
     <application>
