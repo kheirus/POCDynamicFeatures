@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.kouelaa.feature_b">
+    package="com.kouelaa.feature_b"
+    >
+
 
     <dist:module
-        dist:instant="false"
         dist:title="@string/title_feature_b">
         <dist:delivery>
             <dist:on-demand />
@@ -14,7 +15,7 @@
     </dist:module>
 
     <application>
-        <activity android:name=".FeatureBActivity"></activity>
+        <activity android:name=".FeatureBActivity" />
     </application>
 
 </manifest>
